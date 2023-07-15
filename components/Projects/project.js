@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import User from '../../public/linkedin-dp.jpg'
-import zolaha from '../../public/zolaha-logo.png'
+import User from '../../public/linkedindp.jpg'
+import zolaha from '../../public/zolahalogo.png'
 const Project = () => {
   return (
 

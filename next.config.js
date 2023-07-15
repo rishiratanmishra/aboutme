@@ -1,14 +1,14 @@
-/** @type {import('next').NextConfig} */
-// const nextConfig = {}
-
-// module.exports = nextConfig
-
-// next.config.js
-// next.config.js
-module.exports = {
-    reactStrictMode: true,
-    images: {
-      domains: ['dummyimage.com'], // Add your image domain here
-    },
-   
-    }
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
+  output: 'export',
+  reactStrictMode: true,
+  swcMinify: true,
+  // Optional: Add a trailing slash to all paths `/about` -> `/about/`
+  // trailingSlash: true,
+  // Optional: Change the output directory `out` -> `dist`
+  // distDir: 'dist',
+}
+ 
+module.exports = nextConfig

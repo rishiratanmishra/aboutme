@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import Logo from '../../public/linkedin-dp.jpg'
+import Logo from '../../public/linkedindp.jpg'
 const Navbar = () => {
   return (
     <>

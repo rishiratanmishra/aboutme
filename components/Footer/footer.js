@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Logo from '../../public/linkedin-dp.jpg'
+import Logo from '../../public/linkedindp.jpg'
 
 export const Footer = () => {
   return (
