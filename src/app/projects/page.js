@@ -1,8 +1,8 @@
 import React from 'react'
-import Timeline from '../../../components/Timeline/timeline'
-import ZOLAHA from '../../../public/zolaha.jpg'
-import SPEECH from '../../../public/speechtxt.png'
-import CONVERTER from '../../../public/converter.png'
+import Timeline from '/components/Timeline/timeline'
+import ZOLAHA from '/public/zolaha.jpg'
+import SPEECH from '/public/speechtxt.png'
+import CONVERTER from '/public/converter.png'
 const Projects = () => {
   return (
     <>

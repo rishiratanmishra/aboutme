@@ -1,11 +1,11 @@
 import React from 'react';
-import Hero from '../../../components/Hero/hero';
+import Hero from '/components/Hero/hero';
 import Image from 'next/image';
-import Rishi2 from '../../../public/rishiratan2.jpg';
-import MicPic from '../../../public/rishi3rd.jpg';
-import Google from '../../../public/rishigoogle.jpg';
-import Mask from '../../../public/mask.jpg';
-import Green from '../../../public/rishigreen.jpg';
+import Rishi2 from '/public/rishiratan2.jpg';
+import MicPic from '/public/rishi3rd.jpg';
+import Google from '/public/rishigoogle.jpg';
+import Mask from '/public/mask.jpg';
+import Green from '/public/rishigreen.jpg';
 
 const About = () => {
   return (

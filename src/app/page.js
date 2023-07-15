@@ -1,12 +1,7 @@
-import Hero from '../../components/Hero/hero'
-import Rishi from '../../public/rishiratan.jpg'
-import Skills from '../../components/Skills/skills'
-import Timeline from '../../components/Timeline/timeline'
-import Testimonials from '../../components/Testimonials/testimonial'
-import ZOLAHA from '../../public/zolaha.jpg'
-import SPEECH from '../../public/speechtxt.png'
-import CONVERTER from '../../public/converter.png'
-import Project from '../../components/Projects/project'
+import Hero from '/components/Hero/hero'
+import Rishi from '/public/rishiratan.jpg'
+import Skills from '/components/Skills/skills'
+import Project from '/components/Projects/project'
 import Link from 'next/link'
 
 export default function Home() {

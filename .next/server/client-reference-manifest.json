@@ -1,1 +1,387 @@
-{"ssrModuleMapping":{"1440":{"*":{"id":"479","name":"*","chunks":[],"async":false}},"1505":{"*":{"id":"2527","name":"*","chunks":[],"async":false}},"2110":{"*":{"id":"1516","name":"*","chunks":[],"async":false}},"2306":{"*":{"id":"7833","name":"*","chunks":[],"async":false}},"2353":{"*":{"id":"8709","name":"*","chunks":[],"async":false}},"2956":{"*":{"id":"7958","name":"*","chunks":[],"async":false}},"3029":{"*":{"id":"9556","name":"*","chunks":[],"async":false}},"3231":{"*":{"id":"798","name":"*","chunks":[],"async":false}},"3862":{"*":{"id":"907","name":"*","chunks":[],"async":false}},"4772":{"*":{"id":"5152","name":"*","chunks":[],"async":false}},"5594":{"*":{"id":"870","name":"*","chunks":[],"async":false}},"7095":{"*":{"id":"5457","name":"*","chunks":[],"async":false}},"7330":{"*":{"id":"7734","name":"*","chunks":[],"async":false}},"7354":{"*":{"id":"83","name":"*","chunks":[],"async":false}},"8314":{"*":{"id":"6522","name":"*","chunks":[],"async":false}},"8531":{"*":{"id":"9150","name":"*","chunks":[],"async":false}},"8885":{"*":{"id":"2755","name":"*","chunks":[],"async":false}},"9180":{"*":{"id":"2698","name":"*","chunks":[],"async":false}}},"edgeSSRModuleMapping":{},"clientModules":{"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\error-boundary.js":{"id":7330,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js":{"id":7330,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\app-router.js":{"id":2353,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js":{"id":2353,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\layout-router.js":{"id":9180,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js":{"id":9180,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js":{"id":2306,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js":{"id":2306,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":8531,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":8531,"name":"*","chunks":["272:static/chunks/webpack-9673555898aeb0a3.js","253:static/chunks/bce60fc1-8c4748991edb1ec4.js","698:static/chunks/698-a688277c97192edd.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\link.js":{"id":7095,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","29:static/chunks/29-9f0846cba56750e5.js","931:static/chunks/app/page-a59c2334c2c45e1c.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\link.js":{"id":7095,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","29:static/chunks/29-9f0846cba56750e5.js","931:static/chunks/app/page-a59c2334c2c45e1c.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}":{"id":7064,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","185:static/chunks/app/layout-fe94a63425f19d52.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\linkedindp.jpg":{"id":8314,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","29:static/chunks/29-9f0846cba56750e5.js","931:static/chunks/app/page-a59c2334c2c45e1c.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\globals.css":{"id":8410,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","185:static/chunks/app/layout-fe94a63425f19d52.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\styles\\loading.module.css":{"id":8456,"name":"*","chunks":["555:static/chunks/app/loading-06c5e813bc91de03.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\image-component.js":{"id":3029,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\image-component.js":{"id":3029,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishiratan.jpg":{"id":2110,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","29:static/chunks/29-9f0846cba56750e5.js","931:static/chunks/app/page-a59c2334c2c45e1c.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\zolaha.jpg":{"id":3231,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","895:static/chunks/app/projects/page-f486093efdf1e41e.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\converter.png":{"id":7354,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","895:static/chunks/app/projects/page-f486093efdf1e41e.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\speechtxt.png":{"id":1505,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","895:static/chunks/app/projects/page-f486093efdf1e41e.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\zolahalogo.png":{"id":4772,"name":"*","chunks":["95:static/chunks/95-fccb0e3bf71b9653.js","29:static/chunks/29-9f0846cba56750e5.js","931:static/chunks/app/page-a59c2334c2c45e1c.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishi3rd.jpg":{"id":2956,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishigoogle.jpg":{"id":8885,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishiratan2.jpg":{"id":3862,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\mask.jpg":{"id":5594,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false},"E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishigreen.jpg":{"id":1440,"name":"*","chunks":["29:static/chunks/29-9f0846cba56750e5.js","301:static/chunks/app/about/page-bc5feff7e249e08a.js"],"async":false}},"entryCSSFiles":{"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\layout":["static/css/37e53feadf167484.css"],"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\loading":["static/css/4a2423ddfc1dee47.css"],"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\not-found":[],"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\page":[],"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\projects\\page":[],"E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\about\\page":[]}}
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image-component.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image-component.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/linkedindp.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/linkedindp.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/rishiratan2.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/rishiratan2.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/rishi3rd.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/rishi3rd.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/rishigoogle.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/rishigoogle.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/mask.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/mask.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/rishigreen.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/rishigreen.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/rishiratan.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/rishiratan.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/zolahalogo.png": {
+      "*": {
+        "id": "(sc_client)/./public/zolahalogo.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/zolaha.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/zolaha.jpg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/speechtxt.png": {
+      "*": {
+        "id": "(sc_client)/./public/speechtxt.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/converter.png": {
+      "*": {
+        "id": "(sc_client)/./public/converter.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\styles\\loading.module.css": {
+      "id": "(app-client)/./src/styles/loading.module.css",
+      "name": "*",
+      "chunks": [
+        "app/loading:static/chunks/app/loading.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/projects/page:static/chunks/app/projects/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/projects/page:static/chunks/app/projects/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\linkedindp.jpg": {
+      "id": "(app-client)/./public/linkedindp.jpg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\globals.css": {
+      "id": "(app-client)/./src/app/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishiratan2.jpg": {
+      "id": "(app-client)/./public/rishiratan2.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishi3rd.jpg": {
+      "id": "(app-client)/./public/rishi3rd.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishigoogle.jpg": {
+      "id": "(app-client)/./public/rishigoogle.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\mask.jpg": {
+      "id": "(app-client)/./public/mask.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishigreen.jpg": {
+      "id": "(app-client)/./public/rishigreen.jpg",
+      "name": "*",
+      "chunks": [
+        "app/about/page:static/chunks/app/about/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\rishiratan.jpg": {
+      "id": "(app-client)/./public/rishiratan.jpg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\zolahalogo.png": {
+      "id": "(app-client)/./public/zolahalogo.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\zolaha.jpg": {
+      "id": "(app-client)/./public/zolaha.jpg",
+      "name": "*",
+      "chunks": [
+        "app/projects/page:static/chunks/app/projects/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\speechtxt.png": {
+      "id": "(app-client)/./public/speechtxt.png",
+      "name": "*",
+      "chunks": [
+        "app/projects/page:static/chunks/app/projects/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\public\\converter.png": {
+      "id": "(app-client)/./public/converter.png",
+      "name": "*",
+      "chunks": [
+        "app/projects/page:static/chunks/app/projects/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\loading": [
+      "static/css/app/loading.css"
+    ],
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\not-found": [],
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\layout": [
+      "static/css/app/layout.css"
+    ],
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\about\\page": [],
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\page": [],
+    "E:\\Placement\\portfolio\\portfolio-rishiratan\\src\\app\\projects\\page": []
+  }
+}

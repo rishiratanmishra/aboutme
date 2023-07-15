@@ -1,14 +1,19 @@
 .lds_spinner {
-    color: official;
-    display: inline-block;
-    position: relative;
-    width: 80px;
-    height: 80px;
-  }
-  .lds_spinner div {
-    transform-origin: 40px 40px;
-    animation: lds-spinner 1.2s linear infinite;
-  }
+  color: official;
+  display: flex;
+  justify-content: center; /* Center the spinner horizontally */
+  align-items: center; /* Center the spinner vertically */
+  width: 80px;
+  height: 80px;
+}
+
+.lds_spinner div {
+  transform-origin: 40px 40px;
+  animation: lds-spinner 1.2s linear infinite;
+}
+
+/* Rest of your CSS code */
+
   .lds_spinner div:after {
     content: " ";
     display: block;
