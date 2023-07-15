@@ -1,9 +1,9 @@
 import React from 'react';
 import Hero from '../../../components/Hero/hero';
 import Image from 'next/image';
-import Rishi2 from '../../../public/rishiratan-2.jpg';
-import MicPic from '../../../public/rishi3rd.JPG';
-import Google from '../../../public/rishigoogle.JPG';
+import Rishi2 from '../../../public/rishiratan2.jpg';
+import MicPic from '../../../public/rishi3rd.jpg';
+import Google from '../../../public/rishigoogle.jpg';
 import Mask from '../../../public/mask.jpg';
 import Green from '../../../public/rishigreen.jpg';
 
